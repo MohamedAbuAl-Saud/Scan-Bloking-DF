@@ -30,7 +30,7 @@ If you don't have `curl` or `ping` installed, you can easily install them using 
 #### On Ubuntu/Debian-based systems:
 ```bash
 sudo apt update
-git clone https://github.com/MohamedAbuAl-Saud/Scan-Bloking-DF/
-cd Scan-Bloking-DF
-chmod +x scan.sh
-bash scan.sh
+git clone https://github.com/MohamedAbuAl-Saud/Scan-DF/
+cd Scan-DF
+chmod +x scan-DF.sh
+bash scan-DF.sh
